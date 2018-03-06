@@ -311,6 +311,7 @@ chinachu_service_initscript () {
   
   cat <<EOF
 #!/bin/bash
+# /etc/
 
 ### BEGIN INIT INFO
 # Provides:          chinachu-${name}
